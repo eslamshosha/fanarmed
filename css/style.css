@@ -625,7 +625,7 @@ html[dir="rtl"] .open-search {
 }
 
 .main-slider .swiper-btn:hover {
-  background-color: var(--main-color);
+  background-color: var(--main-hover);
 }
 .main-slider .swiper-btn i {
   z-index: 2;
