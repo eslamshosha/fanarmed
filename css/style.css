@@ -494,7 +494,7 @@ html[dir="rtl"] .add-to .dropdown-content {
 .search-button:hover {
   color: var(--main-hover);
 }
-html[dir="rtl"] .search-button {
+.search-button {
   transform: translateY(-50%) scaleX(-1);
 }
 html[dir="rtl"] .open-search {
